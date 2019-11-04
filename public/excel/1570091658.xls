@@ -1,0 +1,19 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><meta http-equiv="content-type" content="application/vnd.ms-excel; charset=UTF-8"><head><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>Sheet0</x:Name><x:WorksheetOptions><x:DisplayGridlines/></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--></head><body><table><tr style=''><td rowspan='1'  colspan='1' >No</td><td rowspan='1'  colspan='1' >Client Name</td><td rowspan='1'  colspan='1' >Staff Name</td><td rowspan='1'  colspan='1' >Service Name</td><td rowspan='1'  colspan='1' >Remain Time</td><td rowspan='1'  colspan='1' >Room ID</td><td rowspan='1'  colspan='1' >Estimate Cost</td><td rowspan='1'  colspan='1' >Paid</td></tr><tr style=''><td>1</td><td>polaris@outlook.com</td><td>Joseph Ryan</td><td>Deep Tissue Massage </td><td>
+                                04:22
+                            </td><td>2-01</td><td>215</td><td><i class="fa-times-circle"></i></td></tr><tr style=''><td>2</td><td>cr@outlook.com</td><td>Joseph Ryan</td><td>Deep Tissue Massage </td><td>
+                                15:10
+                            </td><td>1-05</td><td>252</td><td><i class="fa-times-circle"></i></td></tr><tr style=''><td>3</td><td>gentle@outlook.com</td><td>Lucy</td><td>lao毛</td><td>
+                                00:34
+                            </td><td>2-04</td><td>0</td><td><i class="fa-times-circle"></i></td></tr><tr style=''><td>4</td><td>osodf@outlook.com</td><td>Brittany Davis</td><td>Aromatherapy Massage</td><td>
+                                07:28
+                            </td><td>1-01</td><td>987</td><td><i class="fa-times-circle"></i></td></tr><tr style=''><td>5</td><td>janjan@outlook.com</td><td>Eleanor </td><td>Deep Tissue Massage </td><td>
+                                01:58
+                            </td><td>4-44aa</td><td>2544</td><td><i class="fa-times-circle"></i></td></tr><tr style=''><td>6</td><td>yun@outlook.com</td><td>dfssf</td><td>Shiatsu Massage </td><td>
+                                02:58
+                            </td><td>3-21</td><td>1035</td><td><i class="fa-times-circle"></i></td></tr><tr style=''><td>7</td><td>felk@outlook.com</td><td>jerono</td><td>Aromatherapy Massage</td><td>
+                                21:46
+                            </td><td>sdsd</td><td>987</td><td><i class="fa-times-circle"></i></td></tr><tr style=''><td>8</td><td>jsd@outlook.com</td><td>Miriam</td><td>Thai Massage</td><td>
+                                00:18
+                            </td><td>3333</td><td>1725</td><td><i class="fa-times-circle"></i></td></tr><tr style=''><td>9</td><td>jsd@outlook.com</td><td>Brittany Davis</td><td>Aromatherapy Massage</td><td>
+                                01:34
+                            </td><td>313</td><td>2961</td><td><i class="fa-times-circle"></i></td></tr></table></body></html>
